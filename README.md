@@ -1,6 +1,8 @@
  FOLLOW A KUGOU
 ----------------
 
+酷狗api:https://github.com/zhengwei1949/kugou_api
+
 
 vuejs仿写酷狗音乐webapp
 -----------------
